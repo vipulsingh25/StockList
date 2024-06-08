@@ -9,7 +9,7 @@ This project highlights the platform that shows Live Stock prices with all the n
 1. ReactJS
 2. Material UI
 
-## Skills Utilized
+## API Used
 
 TwelveData API Used for fetching live stock Data (https://twelvedata.com/)
 
